@@ -10,7 +10,7 @@ title = "Xander Naumenko"
 
 ## Profile Configurations
 [params.profile]
-  portrait = "/images/portrait-default.png"
+  portrait = "profile-picture.jpg"
   firstname = "Xander"
   lastname = "Naumenko"
   title = "Software and Embedded Systems Developer"
