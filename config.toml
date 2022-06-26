@@ -29,7 +29,7 @@ title = "Xander Naumenko"
 
 [params.actions.resume]
   name = "See my Resume"
-  url = "https://raw.githubusercontent.com/misprit7/resume/main/resume.pdf"
+  url = "./resume.pdf"
 
 ## Footer Configurations
 [params.footer]
