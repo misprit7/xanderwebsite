@@ -13,9 +13,13 @@
   <a class="contact" href="https://facebook.com/{{ $id }}">
     <i class="fab fa-facebook" aria-hidden="true"></i>
   </a>
-    {{- else if (eq $service "linkedin") }}
+{{- else if (eq $service "linkedin") }}
   <a class="contact" href="https://linkedin.com/in/{{ $id }}">
     <i class="fab fa-linkedin" aria-hidden="true"></i>
+  </a>
+    {{- else if (eq $service "youtube") }}
+  <a class="contact" href="https://youtube.com/@{{ $id }}">
+    <i class="fab fa-youtube" aria-hidden="true"></i>
   </a>
     {{- else if (eq $service "xing") }}
   <a class="contact" href="https://xing.com/profile/{{ $id }}">

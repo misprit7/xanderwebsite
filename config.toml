@@ -13,10 +13,10 @@ title = "Xander Naumenko"
   portrait = "profile-picture.jpg"
   firstname = "Xander"
   lastname = "Naumenko"
-  title = "Software and Embedded Systems Developer"
-  bio = """An Engineering Physics student with a wide variety of experience in software, firmware and electronics development. 
+  title = "Software Dev and Quant Trader"
+  bio = """An Engineering Physics student with a wide variety of experience in trading, software, firmware and electronics. 
 
-  Is the project lead for [**the avionics system for a rocket going to space**](https://github.com/UBC-Rocket/Whistler-Blackcomb-v2), has designed a [**custom PCB business card**](https://github.com/misprit7/PCB-Business-Card) and has created [**chess database software**](https://github.com/misprit7/nacbko) from scratch, among other projects. 
+Created a [**fully compliant RISC-V CPU inside Terraria**](https://youtu.be/zXPiqk0-zDY?si=ETy4ixvQ0KuLfqQH), made [**the avionics system for a rocket going to space**](https://github.com/UBC-Rocket/Whistler-Blackcomb-v2) and designed a [**custom PCB business card**](https://github.com/misprit7/PCB-Business-Card) from scratch, among other projects. 
 
   A self professed nerd who has spent altogether far to much time fiddling with Vim/Linux/<span class="latex">L<sup>a</sup>T<sub>e</sub>X</span> settings. 
   """
@@ -25,6 +25,7 @@ title = "Xander Naumenko"
 [params.contacts]
   email = "xander@naumenko.com"
   github = "misprit7"
+  youtube = "built-from-scratch"
   linkedin = "xander-naumenko"
 
 [params.actions.resume]
@@ -33,4 +34,4 @@ title = "Xander Naumenko"
 
 ## Footer Configurations
 [params.footer]
-  poweredBy = true
+  poweredBy = false
